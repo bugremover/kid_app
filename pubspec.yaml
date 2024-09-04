@@ -17,6 +17,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   shared_preferences: ^2.2.3
   flutter_svg: ^2.0.10+1
+  collection: ^1.18.0
 
 dev_dependencies:
   flutter_test:
@@ -26,7 +27,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/1.png
+    - assets/loginbackground.png
     - assets/2.png
     - assets/3.png
     
